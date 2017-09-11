@@ -145,7 +145,7 @@ set langmenu=zh_CN.utf8
 set termencoding=chinese
 set fileencodings=ucs-bom,utf-8,cp936,cp950,latin1
 set ambiwidth=double
-set guifont=Envy\ Code\ R:h14
+set guifont=mononoki:h18
 
 
 " 删除所有行未尾空格
